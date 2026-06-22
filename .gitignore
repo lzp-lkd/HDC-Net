@@ -23,3 +23,5 @@ datasets/
 *.7z
 *.tar
 *.tar.gz
+*.tar
+*.tar.gz
